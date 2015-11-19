@@ -1,0 +1,26 @@
+<!-- Test.html -->
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <TITLE>Page de saisie</TITLE>
+</HEAD>
+<BODY>
+
+<center>
+<h1>Page de Test HTML</h1>
+</center>
+
+<br>
+<br>
+<form method="post" action="TP8_Servlets/servlet/Insert">
+  <p>
+    <label>Votre nom</label> : <input type="text" name="nom"/>
+    <input type="submit" value="OK" />
+    </p>
+</form>
+<br>
+<br>
+
+</BODY>
+</HTML>
